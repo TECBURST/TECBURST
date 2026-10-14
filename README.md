@@ -1,7 +1,7 @@
-<h2 align="center">Hi, I'm TECBURST 👋</h2>
+<h2 align="center">Hi, I'm TECBURST</h2>
 
 <p align="center">
-  I build internal software for a company in the security industry —<br>
+  I build internal software for a company in the security industry,<br>
   and small, sharp tools in my spare time.
 </p>
 
@@ -16,31 +16,31 @@
 
 ---
 
-### 🛠️ At work
+### At work
 The tools people use every day to plan routes, handle faults and keep track of
 customers.
 - Backends in **Go**, frontends in **Vue 3 + TypeScript**
 - Running on **Kubernetes** with GitOps (Argo CD)
 - Single sign-on, observability (OpenTelemetry, Grafana) and CI that tells the truth
 
-### 🎮 PLATTFORM 42
+### PLATTFORM 42
 A platform for a gaming community: a Discord bot, a web app for members and
-admins, and a Go API behind both — live updates over SSE, traced end to end.
+admins, and a Go API behind both, with live updates over SSE, traced end to end.
 Plus the game servers around it, e.g. a Project Zomboid server with its own
 web management.
 
-### 🧰 Small system tools
-I like building small tools that do one job well — in whatever language fits
+### Small system tools
+I like building small tools that do one job well, in whatever language fits
 the problem: usually **Go**, **Python** for quick automation, and **Rust** when
 it has to be really fast or close to the metal.
 
-### 🕹️ Modding & reverse engineering
+### Modding & reverse engineering
 - Proxy DLLs for *Command & Conquer 3: Tiberium Wars* and *Kane's Wrath*:
   rendering decoupled from the engine's 30 Hz updates, smooth interpolation,
-  borderless window — and notes on how the SAGE engine ticks
+  borderless window, plus notes on how the SAGE engine ticks
 - Maps for *Garry's Mod*, built and benchmarked in CI
 
-### 🤝 How I like to work
+### How I like to work
 - Small, reviewed changes over big rewrites
 - A test that can fail is worth more than a green badge
 - Interfaces that work on a phone, not just on a desk
