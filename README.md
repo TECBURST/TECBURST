@@ -40,6 +40,15 @@ it has to be really fast or close to the metal.
   borderless window, plus notes on how the SAGE engine ticks
 - Maps for *Garry's Mod*, built and benchmarked in CI
 
+### Do I use AI?
+Yes. You wouldn't drive a nail into the wall with your bare hand either, you'd
+pick up the hammer.
+
+As long as you understand your craft, there is no point in making the work
+harder than it needs to be. What matters more is asking the right questions and
+really understanding things at their core. The tool does the typing; the
+thinking, the judgement and the responsibility stay with me.
+
 ### How I like to work
 - Small, reviewed changes over big rewrites
 - A test that can fail is worth more than a green badge
